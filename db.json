@@ -27,7 +27,8 @@
                 {"id":17,"name":"用户17","avatar":"https://picsum.photos/id/17/100/100","desc":"市场推广","phone":"13800000017"},
                 {"id":18,"name":"用户18","avatar":"https://picsum.photos/id/18/100/100","desc":"人事专员","phone":"13800000018"},
                 {"id":19,"name":"用户19","avatar":"https://picsum.photos/id/19/100/100","desc":"财务会计","phone":"13800000019"},
-                {"id":20,"name":"用户20","avatar":"https://picsum.photos/id/20/100/100","desc":"法务专员","phone":"13800000020"}
+                {"id":20,"name":"用户20","avatar":"https://picsum.photos/id/20/100/100","desc":"法务专员","phone":"13800000020"},
+                {"id":20,"name":"用户21","avatar":"https://picsum.photos/id/21/100/100","desc":"专员","phone":"13800000021"}
             ],
   "user": [
     {"id":1,"nick":"测试用户","phone":"13800138000","isVip":true}

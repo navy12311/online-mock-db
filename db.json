@@ -1,0 +1,13 @@
+{
+  "goods": [
+    {"id":1,"name":"蓝牙耳机","price":159,"stock":80,"category":"数码"},
+    {"id":2,"name":"机械键盘","price":269,"stock":120,"category":"外设"}
+  ],
+  "user": [
+    {"id":1,"nick":"测试用户","phone":"13800138000","isVip":true}
+  ],
+  "appConfig": {
+    "version":"1.0.0",
+    "maxUpload":10
+  }
+}

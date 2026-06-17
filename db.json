@@ -17,18 +17,7 @@
                 {"id":7,"name":"用户07","avatar":"https://picsum.photos/id/7/100/100","desc":"运维工程师","phone":"13800000007"},
                 {"id":8,"name":"用户08","avatar":"https://picsum.photos/id/8/100/100","desc":"Go开发工程师","phone":"13800000008"},
                 {"id":9,"name":"用户09","avatar":"https://picsum.photos/id/9/100/100","desc":"数据分析师","phone":"13800000009"},
-                {"id":10,"name":"用户10","avatar":"https://picsum.photos/id/10/100/100","desc":"项目经理","phone":"13800000010"},
-                {"id":11,"name":"用户11","avatar":"https://picsum.photos/id/11/100/100","desc":"爬虫开发","phone":"13800000011"},
-                {"id":12,"name":"用户12","avatar":"https://picsum.photos/id/12/100/100","desc":"算法工程师","phone":"13800000012"},
-                {"id":13,"name":"用户13","avatar":"https://picsum.photos/id/13/100/100","desc":"安全工程师","phone":"13800000013"},
-                {"id":14,"name":"用户14","avatar":"https://picsum.photos/id/14/100/100","desc":"硬件开发","phone":"13800000014"},
-                {"id":15,"name":"用户15","avatar":"https://picsum.photos/id/15/100/100","desc":"嵌入式开发","phone":"13800000015"},
-                {"id":16,"name":"用户16","avatar":"https://picsum.photos/id/16/100/100","desc":"新媒体运营","phone":"13800000016"},
-                {"id":17,"name":"用户17","avatar":"https://picsum.photos/id/17/100/100","desc":"市场推广","phone":"13800000017"},
-                {"id":18,"name":"用户18","avatar":"https://picsum.photos/id/18/100/100","desc":"人事专员","phone":"13800000018"},
-                {"id":19,"name":"用户19","avatar":"https://picsum.photos/id/19/100/100","desc":"财务会计","phone":"13800000019"},
-                {"id":20,"name":"用户20","avatar":"https://picsum.photos/id/20/100/100","desc":"法务专员","phone":"13800000020"},
-                {"id":20,"name":"用户21","avatar":"https://picsum.photos/id/21/100/100","desc":"专员","phone":"13800000021"}
+                {"id":10,"name":"用户10","avatar":"https://picsum.photos/id/10/100/100","desc":"项目经理","phone":"13800000010"}
             ],
   "user": [
     {"id":1,"nick":"测试用户","phone":"13800138000","isVip":true}
@@ -36,5 +25,19 @@
   "appConfig": {
     "version":"1.0.0",
     "maxUpload":10
+  },"mine":{
+    [
+  {
+    "uid": 10001,
+    "username": "Compose开发者",
+    "avatar": "https://picsum.photos/id/237/200/200",
+    "signature": "专注Android组件化 + 单Activity MVVM架构",
+    "collectNum": 128,
+    "fans": 369,
+    "focusCount": 86,
+    "level": 5,
+    "vip": true
+  }
+]
   }
 }

@@ -8,9 +8,9 @@
     {"id":2,"title":"组件2"}
   ],
   "compo1":[
-{"id":1,"name":"用户01","avatar":"https://picsum.photos/id/1/100/100","desc":"前端开发工程师","phone":"13800000001"},
-{"id":2,"name":"用户02","avatar":"https://picsum.photos/id/2/100/100","desc":"Android原生开发","phone":"13800000002"},
-{"id":3,"name":"用户03","avatar":"https://picsum.photos/id/3/100/100","desc":"后端Java开发","phone":"13800000003"},
+                {"id":1,"name":"用户01","avatar":"https://picsum.photos/id/1/100/100","desc":"前端开发工程师","phone":"13800000001"},
+                {"id":2,"name":"用户02","avatar":"https://picsum.photos/id/2/100/100","desc":"Android原生开发","phone":"13800000002"},
+                {"id":3,"name":"用户03","avatar":"https://picsum.photos/id/3/100/100","desc":"后端Java开发","phone":"13800000003"},
                 {"id":4,"name":"用户04","avatar":"https://picsum.photos/id/4/100/100","desc":"产品经理","phone":"13800000004"},
                 {"id":5,"name":"用户05","avatar":"https://picsum.photos/id/5/100/100","desc":"UI设计师","phone":"13800000005"},
                 {"id":6,"name":"用户06","avatar":"https://picsum.photos/id/6/100/100","desc":"测试工程师","phone":"13800000006"},

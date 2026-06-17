@@ -3,13 +3,6 @@
     {"id":1,"name":"蓝牙耳机","price":159,"stock":80,"category":"数码"},
     {"id":2,"name":"机械键盘","price":269,"stock":120,"category":"外设"}
   ],
-  "user": [
-    {"id":1,"nick":"测试用户","phone":"13800138000","isVip":true}
-  ],
-  "appConfig": {
-    "version":"1.0.0",
-    "maxUpload":10
-  },
   "compo":[
                 {"id":1,"name":"用户01","avatar":"https://picsum.photos/id/1/100/100","desc":"前端开发工程师","phone":"13800000001"},
                 {"id":2,"name":"用户02","avatar":"https://picsum.photos/id/2/100/100","desc":"Android原生开发","phone":"13800000002"},
@@ -31,5 +24,12 @@
                 {"id":18,"name":"用户18","avatar":"https://picsum.photos/id/18/100/100","desc":"人事专员","phone":"13800000018"},
                 {"id":19,"name":"用户19","avatar":"https://picsum.photos/id/19/100/100","desc":"财务会计","phone":"13800000019"},
                 {"id":20,"name":"用户20","avatar":"https://picsum.photos/id/20/100/100","desc":"法务专员","phone":"13800000020"}
-            ]
+            ],
+  "user": [
+    {"id":1,"nick":"测试用户","phone":"13800138000","isVip":true}
+  ],
+  "appConfig": {
+    "version":"1.0.0",
+    "maxUpload":10
+  }
 }

@@ -25,19 +25,19 @@
   "appConfig": {
     "version":"1.0.0",
     "maxUpload":10
-  },"mine":{
+  },
+  "mine":
     [
-  {
-    "uid": 10001,
-    "username": "Compose开发者",
-    "avatar": "https://picsum.photos/id/237/200/200",
-    "signature": "专注Android组件化 + 单Activity MVVM架构",
-    "collectNum": 128,
-    "fans": 369,
-    "focusCount": 86,
-    "level": 5,
-    "vip": true
-  }
-]
-  }
+      {
+        "uid": 10001,
+        "username": "Compose开发者",
+        "avatar": "https://picsum.photos/id/237/200/200",
+        "signature": "专注Android组件化 + 单Activity MVVM架构",
+        "collectNum": 128,
+        "fans": 369,
+        "focusCount": 86,
+        "level": 5,
+        "vip": true
+      }
+  ]
 }

@@ -26,7 +26,7 @@
     "version":"1.0.0",
     "maxUpload":10
   },
-  "mine":
+  "minedata":
     [
       {
         "uid": 10001,
@@ -39,5 +39,39 @@
         "level": 5,
         "vip": true
       }
-  ]
+  ],
+  "messagedata": [
+      {"id":1,"sender":"系统通知","content":"您收藏的文章更新了","time":"2026-06-17 08:20"},
+      {"id":2,"sender":"技术小编","content":"新发布Compose分页教程，快来查看","time":"2026-06-17 09:10"},
+      {"id":3,"sender":"开发助手","content":"检测到项目依赖版本可升级","time":"2026-06-17 09:35"},
+      {"id":4,"sender":"用户001","content":"请问组件化循环依赖怎么解决？","time":"2026-06-17 10:02"},
+      {"id":5,"sender":"官方运营","content":"本周技术直播今晚20点开播","time":"2026-06-17 10:15"},
+      {"id":6,"sender":"Hilt助手","content":"Hilt注入ViewModel报错排查方案","time":"2026-06-17 10:40"},
+      {"id":7,"sender":"架构交流群","content":"分享单Activity完整源码","time":"2026-06-17 11:05"},
+      {"id":8,"sender":"网络工具","content":"Retrofit超时异常统一处理示例","time":"2026-06-17 11:22"},
+      {"id":9,"sender":"用户002","content":"分页加载如何限制最大30条数据","time":"2026-06-17 13:10"},
+      {"id":10,"sender":"UI设计师","content":"Compose通用卡片组件样式更新","time":"2026-06-17 13:45"},
+      {"id":11,"sender":"性能检测","content":"APP启动速度优化建议已生成","time":"2026-06-17 14:00"},
+      {"id":12,"sender":"权限工具","content":"Android14存储权限适配说明","time":"2026-06-17 14:25"},
+      {"id":13,"sender":"路由工具","content":"ARouter跨模块传参完整示例","time":"2026-06-17 14:50"},
+      {"id":14,"sender":"协程助手","content":"Flow内存泄漏规避方法","time":"2026-06-17 15:12"},
+      {"id":15,"sender":"缓存工具","content":"MMKV存取对象封装代码","time":"2026-06-17 15:38"},
+      {"id":16,"sender":"用户003","content":"下拉刷新和上拉加载冲突怎么处理","time":"2026-06-17 16:01"},
+      {"id":17,"sender":"崩溃收集","content":"昨日崩溃日志已同步至后台","time":"2026-06-17 16:20"},
+      {"id":18,"sender":"直播提醒","content":"下一场架构分享明天19点","time":"2026-06-17 16:45"},
+      {"id":19,"sender":"分包工具","content":"APP瘦身优化打包配置","time":"2026-06-17 17:03"},
+      {"id":20,"sender":"图片加载","content":"Coil加载网络图片失败重试方案","time":"2026-06-17 17:22"},
+      {"id":21,"sender":"用户004","content":"单Activity切换Tab状态丢失解决","time":"2026-06-17 17:46"},
+      {"id":22,"sender":"深色模式","content":"全局深色主题一键切换代码","time":"2026-06-17 18:05"},
+      {"id":23,"sender":"埋点工具","content":"页面自动埋点拦截器封装","time":"2026-06-17 18:30"},
+      {"id":24,"sender":"数据库工具","content":"Room分页查询搭配Flow","time":"2026-06-17 18:55"},
+      {"id":25,"sender":"版本更新","content":"V2.0新版本功能预告","time":"2026-06-17 19:10"},
+      {"id":26,"sender":"测试助手","content":"UI自动化测试Compose页面","time":"2026-06-17 19:33"},
+      {"id":27,"sender":"混淆工具","content":"组件化混淆规则配置","time":"2026-06-17 19:56"},
+      {"id":28,"sender":"用户005","content":"ViewModel SavedStateHandle保存数据","time":"2026-06-17 20:12"},
+      {"id":29,"sender":"官方客服","content":"你的反馈已收到，正在处理","time":"2026-06-17 20:35"},
+      {"id":30,"sender":"技术周报","content":"本周Android前沿技术汇总","time":"2026-06-17 20:58"},
+      {"id":31,"sender":"备用消息1","content":"无限分页可加载","time":"2026-06-17 21:10"},
+      {"id":32,"sender":"备用消息2","content":"无限分页可加载","time":"2026-06-17 21:30"}
+    ]
 }
